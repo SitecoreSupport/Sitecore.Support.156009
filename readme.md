@@ -1,5 +1,5 @@
 # Sitecore.Support.156009
-Wrong goal name is displayed when inserting a form through Experience Editor.
+Wrong goal name is displayed when inserting an existing form through Experience Editor.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.156009/blob/master/LICENSE).  
